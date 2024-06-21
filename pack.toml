@@ -1,0 +1,16 @@
+name = "NHC"
+author = "mine_also_craft"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8dd688f6f43075ee671110163efbd8dd900e96c7c932f6e83714f281ded21ecc"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = ["1.20.1", "1.20.6"]
