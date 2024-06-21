@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": {
+      "+depends": {
+        "fabricloader": ">=0.15.11"
+      }
+    },
+    "cull-less-leaves": {
+      "-depends": {
+        "minecraft": ""
+      }
+    },
+    "desiredservers": {
+      "-depends": {
+        "minecraft": ""
+      }
+    }
+  }
+}

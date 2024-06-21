@@ -1,0 +1,19 @@
+{
+  "main_menu": {
+    "bottom_left": [
+
+      {
+        "text": "NHC 3.0.0 (Beta)"
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "Made with love for NotHermitCraft.",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.planetminecraft.com/server/nothermitcraft/"
+        }
+      }
+    ]
+  }
+}
